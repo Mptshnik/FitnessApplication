@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#8854E4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF5722</color>
+    <color name="grey">#45453e</color>
+    <color name="activity_background">#EEEFF3</color>
+    <color name="navigation_btn_color">#F3F5FA</color>
+    <color name="test_btn_color">#F3F5FA</color>
+    <color name="textview_color">#2196F3</color>
+    <color name="edit_text_color">#2196F3</color>
+    <color name="red">#DC1B21</color>
+    <color name="green">#1ABD1F</color>
+</resources>

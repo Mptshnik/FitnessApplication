@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavigationButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textSize">10sp</item>
+        <item name="backgroundTint">@color/navigation_btn_color</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ActivityStyle">
+        <item name="backgroundTint">@color/activity_background</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:textColor">@color/textview_color</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TestButtonStyle" >
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/test_btn_color</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="hintTextColor">@color/edit_text_color</item>
+        <item name="android:backgroundTint">@color/edit_text_color</item>
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextViewResult">
+        <item name="android:textColor">@color/textview_color</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_margin">20dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="SpinnerStyle">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:backgroundTint">@color/edit_text_color</item>
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+</resources>
